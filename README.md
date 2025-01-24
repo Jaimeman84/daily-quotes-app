@@ -110,4 +110,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - All contributors and users of this application
 
 ---
-Made with ❤️ by 
+Made with ❤️ by Jaime Mantilla + Ai
